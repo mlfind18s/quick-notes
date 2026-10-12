@@ -1,7 +1,7 @@
 {
   "name": "quick-notes",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Демо для React Host: локальні нотатки в IndexedDB і чернетка в localStorage",
   "type": "module",
   "scripts": {
